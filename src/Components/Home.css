@@ -1,0 +1,74 @@
+.homepage{
+    background: url("https://mint0137.netlify.app/static/media/halloweenBg.ecd7cbf9.png");
+    /* height: 100vh; */
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 200px;
+    padding-bottom: 50px;
+}
+.card-div{
+    background: #212225;
+    width: 380px;
+    height: 340px;
+    border-radius: 10px;
+    border: 2px solid #212225;
+}
+.card-top{
+    height: 100px;
+    background: #FFC359;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin: 2px;
+}
+#time-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+#main-uppr-div{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    justify-content: center;
+}
+.card-text{
+    margin-top: 25px;
+    height: 290px;
+}
+#claim{
+    background: #007DFF;
+    border: 2px solid #77B9FE;
+    border-radius: 5px;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+    width: 250px;
+    padding: 10px 0px;
+    
+}
+#claim a {
+    color: #fff;
+}
+#whitelist{
+    background: #212225;
+    width: 380px;
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 10px 0px;
+}
+#wlist{
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+    margin-left: 10px;
+}

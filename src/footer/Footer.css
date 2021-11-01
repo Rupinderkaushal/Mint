@@ -1,0 +1,20 @@
+#faf-a{
+    color: grey;
+    font-size: 20px;
+}
+#faf-btn1{
+    border: 1px solid grey;
+    background: transparent;
+    border-radius: 5px;
+    margin: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.footer{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    width: 95%;
+    margin: auto;
+}
